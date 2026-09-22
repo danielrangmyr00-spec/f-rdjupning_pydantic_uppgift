@@ -64,3 +64,15 @@ Vad skulle vara ett naturligt nästa steg om du fortsatte arbetet?
 Vilket betyg tycker du själv att arbetet motsvarar – G eller VG?
 Motivera din bedömning genom att koppla till kraven för G och VG nedan.
 Din egen bedömning avgör inte vilket betyg du får. Syftet är att du ska reflektera över ditt arbete i relation till uppgiftens kriterier.
+
+
+
+Självreflektion
+
+Innan projektet hade jag begränsad kunskap om Pydantic. Genom att bygga en egen lösning fick jag förståelse för hur biblioteket använder typannoteringar för att validera data och generera tydliga felmeddelanden.
+
+Det mest intressanta var hur lite kod som krävdes för att skapa robust validering jämfört med att skriva motsvarande logik manuellt. Jag såg också hur Pydantic kan komplettera Pandas i en databehandlingsprocess.
+
+En utmaning var att förstå hur valideringen fungerar bakom kulisserna och hur felmeddelanden genereras. Jag behövde också fundera över när Pydantic är rätt verktyg och när andra lösningar är mer lämpliga.
+
+Om jag hade haft mer tid hade jag velat undersöka avancerade funktioner såsom egna validators, nästlade modeller och integration med FastAPI.
