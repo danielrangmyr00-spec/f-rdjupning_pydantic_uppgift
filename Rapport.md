@@ -251,6 +251,6 @@ Jag har också diskuterat både användningsområden och begränsningar samt kop
 
 Däremot anser jag inte att arbetet fullt ut motsvarar VG. För att nå den nivån hade jag behövt genomföra en djupare teknisk analys, jämföra flera alternativa lösningar och utforska mer avancerade funktioner inom Pydantic. Projektet fokuserar främst på grundläggande datavalidering och syftet har varit att skapa en stabil förståelse för bibliotekets kärnfunktioner.
 
-Sammantaget tycker jag att arbetet visar god förståelse för ämnet och uppfyller målen för ett godkänt arbete.
+Sammantaget tycker jag att arbetet visar förståelse för ämnet och uppfyller målen för godkänt.
 
 
